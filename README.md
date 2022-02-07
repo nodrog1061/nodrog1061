@@ -31,6 +31,7 @@ Languages & Technologies: `Java Script`, `Elixir`, `SQL`, `PHP` \
 [**Groupe Atlantic**](https://www.groupe-atlantic.fr/en) \
 I work with the multi nation firm to help upkeep [Ideal Heating](https://idealheating.com) suite of software \
 <br/>
+<br/>
 
 [<img align="right" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://pbs.twimg.com/profile_images/1410482494684680192/m-_Rk0PF.jpg"/>](https://duo.nl/)
 
