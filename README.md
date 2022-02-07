@@ -11,28 +11,32 @@
 </p>
 
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23668A84&lines=Who+I+Work+For)](https://git.io/typing-svg)
+
+
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://pbs.twimg.com/profile_images/704962258863005696/G94ENfqo.jpg"/>](https://www.kpn.com/)
 
 **Support Developer** \
 [**Sauce Consulting**](https://www.wearesauce.io) • Full Time \
-Languages & Technologies: `RHEL`, `Python`, `Ansible`, `KSP` \
+Languages & Technologies: `Java Script`, `Elixir`, `SQL`, `PHP` \
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/5047569?s=200&v=4"/>](https://warpnet.nl/)
 
-**Software Engineer (SWE) and Site Reliability Engineer (SRE)** \
-[**Warpnet**](https://warpnet.nl/) • Full-time \
-Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`, `Prometheus` \
-Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23668A84&lines=Who+I+Work+With)](https://git.io/typing-svg)
+
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://pbs.twimg.com/profile_images/821657853064777729/sjops9vj.jpg"/>](https://warpnet.nl/)
+
+[**Groupe Atlantic**](https://www.groupe-atlantic.fr/en) \
+I work with the multi nation firm to help upkeep [Ideal Heating](https://idealheating.com) suite of software \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHjgPhHoVWNBw/company-logo_200_200/0/1519898606850?e=1645056000&v=beta&t=FIdiz1Jf44gALWieCgDVEup-pQOk-bbQ7ObgvqiNl4A"/>](https://duo.nl/)
+[<img align="right" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://pbs.twimg.com/profile_images/1410482494684680192/m-_Rk0PF.jpg"/>](https://duo.nl/)
 
-**DevOps Engineer** \
-[**DUO**](https://duo.nl/) • Contract \
-Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` \
+[**Siemens Gamesa**](https://www.groupe-atlantic.fr/en) \
+I work with the multi nation firm to help upkeep [Ideal Heating](https://idealheating.com) software \
 <br/>
 <br/>
 
-Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more detailed description of my full work experience, education and certification.
+Please find me on [LinkedIn](https://www.linkedin.com/in/lewis-taylor-0603a9161) for a more detailed description of my full work experience, education and certification.
