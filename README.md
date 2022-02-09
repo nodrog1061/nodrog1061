@@ -35,8 +35,8 @@ I work with the multi nation firm to help upkeep [Ideal Heating](https://idealhe
 
 [<img align="right" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://pbs.twimg.com/profile_images/1410482494684680192/m-_Rk0PF.jpg"/>](https://duo.nl/)
 
-[**Siemens Gamesa**](https://www.groupe-atlantic.fr/en) \
-I work with the multi nation firm to help upkeep [Ideal Heating](https://idealheating.com) software \
+[**Siemens Gamesa**](https://www.siemensgamesa.com/) \
+I help to create and upkeep time managment software for Siemens Gamesa \
 <br/>
 <br/>
 
