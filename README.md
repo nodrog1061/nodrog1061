@@ -23,6 +23,7 @@ Languages & Technologies: `Java Script`, `Elixir`, `SQL`, `PHP` \
 <br/>
 
 
+
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23668A84&lines=Who+I+Work+With)](https://git.io/typing-svg)
 
 
@@ -30,6 +31,9 @@ Languages & Technologies: `Java Script`, `Elixir`, `SQL`, `PHP` \
 [<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://pbs.twimg.com/profile_images/1410482494684680192/m-_Rk0PF.jpg"/>](https://wearesauce.io/project/siemens-gamesa)
 [<img align="left" height="94px" width="94px" alt="Nestle" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrz0JE8_7JvzQymMAeGKrbDllwoeOY6y1yKyr7STTH9kxCD78-"/>](https://wearesauce.io/project/nestle-mercurius)
 [<img align="left" height="94px" width="94px" alt="Rix" src="https://www.rix.co.uk/app/uploads/2020/03/rix-logo.png"/>](https://wearesauce.io/project/rix)
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/lewis-taylor-0603a9161) for a more detailed description of my full work experience, education and certification.
