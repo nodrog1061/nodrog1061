@@ -16,7 +16,7 @@
 
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://pbs.twimg.com/profile_images/704962258863005696/G94ENfqo.jpg"/>](https://www.kpn.com/)
 
-**Support Developer** \
+**Junior Web Developer** \
 [**Sauce Consulting**](https://www.wearesauce.io) • Full Time \
 Languages & Technologies: `Java Script`, `Elixir`, `SQL`, `PHP` \
 <br/>
