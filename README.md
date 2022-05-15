@@ -18,7 +18,7 @@
 
 **Junior Web Developer** \
 [**Sauce Consulting**](https://www.wearesauce.io) • Full Time \
-Languages & Technologies: `Java Script`, `Elixir`, `SQL`, `PHP` \
+Languages & Technologies: `JavaScript`, `Elixir`, `SQL`, `PHP`, `Python` \
 <br/>
 <br/>
 
