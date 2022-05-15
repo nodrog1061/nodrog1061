@@ -30,7 +30,7 @@ Languages & Technologies: `JavaScript`, `Elixir`, `SQL`, `PHP`, `Python` \
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://pbs.twimg.com/profile_images/821657853064777729/sjops9vj.jpg"/>](https://www.groupe-atlantic.fr/en)
 [<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://pbs.twimg.com/profile_images/1410482494684680192/m-_Rk0PF.jpg"/>](https://wearesauce.io/project/siemens-gamesa)
 [<img align="left" height="94px" width="94px" alt="Nestle" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrz0JE8_7JvzQymMAeGKrbDllwoeOY6y1yKyr7STTH9kxCD78-"/>](https://wearesauce.io/project/nestle-mercurius)
-[<img align="left" height="94px" width="94px" alt="Rix" src="https://www.rix.co.uk/app/uploads/2020/03/rix-logo.png"/>](https://wearesauce.io/project/rix)
+[<img align="left" height="94px" width="94px" alt="Rix" src="https://pbs.twimg.com/profile_images/1290197774332506113/NJ31a9IV_400x400.jpg"/>](https://wearesauce.io/project/rix)
 <br/>
 <br/>
 <br/>
