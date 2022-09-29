@@ -22,7 +22,7 @@ Languages & Technologies: `JavaScript`, `Elixir`, `SQL`, `PHP`, `Python`
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://pbs.twimg.com/profile_images/704962258863005696/G94ENfqo.jpg"/>](https://www.kpn.com/)
+[<img align="left" height="94px" width="94px" alt="KPN" src="/rhs_rhs_logo_02%20(1).png"/>](https://www.kpn.com/)
 
 **Web Developer** \
 [**Red Hammer Studio**](https://www.rhsmods.org/) • Casual \
