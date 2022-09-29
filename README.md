@@ -10,6 +10,14 @@
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23668A84&lines=What+im+up+to)](https://git.io/typing-svg)
+
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://pbs.twimg.com/profile_images/1104016057793212417/w2yhTAkn_400x400.png"/>](https://www.northumbria.ac.uk/)
+
+**Computer Networks and Cyber Security BSc** \
+[**Northumbria University**](https://www.northumbria.ac.uk/) • Full Time \
+<br/>
+<br/>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23668A84&lines=Who+I+Work+For)](https://git.io/typing-svg)
 
