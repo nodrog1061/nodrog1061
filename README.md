@@ -22,18 +22,18 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23668A84&lines=Who+I+Work+For)](https://git.io/typing-svg)
 
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://pbs.twimg.com/profile_images/704962258863005696/G94ENfqo.jpg"/>](https://www.wearesauce.io)
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://avatars.githubusercontent.com/u/22619767"/>](https://www.wearesauce.io)
 
 **Junior Web Developer** \
-[**Sauce Consulting**](https://www.wearesauce.io) • Full Time \
+[**Sauce Consulting**](https://www.wearesauce.io) • 0 Hours \
 Languages & Technologies: `JavaScript`, `Elixir`, `SQL`, `PHP`, `Python` 
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="/rhs_rhs_logo_02%20(1).png"/>](https://www.rhsmods.org/)
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://media.licdn.com/dms/image/C560BAQFNzQEpVERNBQ/company-logo_100_100/0/1625477906647?e=2147483647&v=beta&t=eS7MPgiZJmNgURgG4ZwBOYLdB3xGULAt34bdizHwh7o"/>](https://www.nebrcentre.co.uk/)
 
-**Web Developer** \
-[**Red Hammer Studio**](https://www.rhsmods.org/) • Casual \
+**Ethical Hacker** \
+[**North East Business Resilience Centre (NEBRC)**](https://www.nebrcentre.co.uk/) • Casual \
 <br/>
 <br/>
 
