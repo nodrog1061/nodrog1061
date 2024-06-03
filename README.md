@@ -22,14 +22,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23668A84&lines=Who+I+Work+For)](https://git.io/typing-svg)
 
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://avatars.githubusercontent.com/u/22619767"/>](https://www.wearesauce.io)
-
-**Junior Web Developer** \
-[**Sauce Consulting**](https://www.wearesauce.io) • 0 Hours \
-Languages & Technologies: `JavaScript`, `Elixir`, `SQL`, `PHP`, `Python` 
-<br/>
-<br/>
-
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://media.licdn.com/dms/image/C560BAQFNzQEpVERNBQ/company-logo_100_100/0/1625477906647?e=2147483647&v=beta&t=eS7MPgiZJmNgURgG4ZwBOYLdB3xGULAt34bdizHwh7o"/>](https://www.nebrcentre.co.uk/)
 
 **Ethical Hacker** \
@@ -50,5 +42,21 @@ Languages & Technologies: `JavaScript`, `Elixir`, `SQL`, `PHP`, `Python`
 <br/>
 <br/>
 <br/>
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23668A84&lines=Blog+Posts)](https://git.io/typing-svg)
+
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://avatars.githubusercontent.com/u/22619767"/>](https://www.wearesauce.io)
+
+[**Formating old Elixir code automatically using Git Hooks and Docker**](https://sauce-consultants.github.io/today-i-learnt/posts/formating-docker-git-hooks/) 
+<br/>
+<br/>
+
+[<img align="right" height="94px" width="94px" alt="KPN" src="https://avatars.githubusercontent.com/u/22619767"/>](https://www.wearesauce.io)
+
+[**Tests Done Right With CircleCi**](https://sauce-consultants.github.io/today-i-learnt/posts/tests-right/) 
+
+<br/>
+<br/>
+
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/lewis-taylor-0603a9161) for a more detailed description of my full work experience, education and certification.
